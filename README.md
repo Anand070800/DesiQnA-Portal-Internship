@@ -1,1 +1,0 @@
-# DesiQnA-Portal-Internship
